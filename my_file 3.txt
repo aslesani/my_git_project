@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 ssqqqq
+=======
+>>>>>>> parent of 97709fb (second commit)
